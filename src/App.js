@@ -1,10 +1,11 @@
+import Kimi from "./kimicat.jpg"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="kimicat.jpg" className="kimicat" alt="a nice cat"/>
+        <img src={Kimi} className="kimicat" alt="a nice cat"/>
         <p>
           <h1>Kimi is a great cat</h1>
         </p>
