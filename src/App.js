@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="kimicat.jpg" className="kimicat" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <h1>Kimi is a great cat</h1>
         </p>
         <a
           className="App-link"
