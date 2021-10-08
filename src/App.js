@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="kimicat.jpg" className="kimicat"/>
+        <img src="kimicat.jpg" className="kimicat" alt="a nice cat"/>
         <p>
           <h1>Kimi is a great cat</h1>
         </p>
